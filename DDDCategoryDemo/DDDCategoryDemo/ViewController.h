@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  DDCategoryDemo
+//  DDDCategoryDemo
 //
-//  Created by FTY on 2018/6/5.
+//  Created by FTY on 2018/6/6.
 //  Copyright © 2018年 FTY. All rights reserved.
 //
 

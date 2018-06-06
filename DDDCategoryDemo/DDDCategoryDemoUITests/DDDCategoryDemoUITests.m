@@ -1,18 +1,18 @@
 //
-//  DDCategoryDemoUITests.m
-//  DDCategoryDemoUITests
+//  DDDCategoryDemoUITests.m
+//  DDDCategoryDemoUITests
 //
-//  Created by FTY on 2018/6/5.
+//  Created by FTY on 2018/6/6.
 //  Copyright © 2018年 FTY. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface DDCategoryDemoUITests : XCTestCase
+@interface DDDCategoryDemoUITests : XCTestCase
 
 @end
 
-@implementation DDCategoryDemoUITests
+@implementation DDDCategoryDemoUITests
 
 - (void)setUp {
     [super setUp];
