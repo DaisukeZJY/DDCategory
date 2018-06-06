@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "DDDCategory"
-  s.version      = "0.1.0"
+  s.name         = "DDDDCategory"
+  s.version      = "0.1.2"
   s.summary      = "分类工具组件"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/DaisukeZJY/DDDCategory.git", :tag => "{s.version}" }
+s.source       = { :git => "https://github.com/DaisukeZJY/DDDCategory.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
