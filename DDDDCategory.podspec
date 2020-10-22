@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     分类工具组件（包含很多。。。。。。。）
                    DESC
 
-  s.homepage     = "https://github.com/DaisukeZJY/DDDCategory.git"
+  s.homepage     = "https://github.com/feng-tianyou/DDDCategory.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-s.source       = { :git => "https://github.com/DaisukeZJY/DDDCategory.git", :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/feng-tianyou/DDDCategory.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
