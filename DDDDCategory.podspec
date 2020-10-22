@@ -91,7 +91,7 @@ s.source       = { :git => "https://github.com/feng-tianyou/DDDCategory.git", :t
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "DDDCategory/Classes/*.{h,m}"
+  s.source_files  = "DDDCategory/Classes/*"
 #s.exclude_files = "Classes/Exclude"
 
 #s.public_header_files = "DDDCategory/Classes/DDCategory.h"
